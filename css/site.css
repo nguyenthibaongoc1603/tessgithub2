@@ -6,7 +6,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .header{
-    background-image: url(./images/background01.jpg);
+    background-image: url(/images/background01.jpg);
     position: fixed;
     top: 0;
     left: 0;
